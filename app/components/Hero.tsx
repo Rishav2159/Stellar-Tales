@@ -12,7 +12,7 @@ export default function Hero() {
       <div className="text-left z-10 h-auto absolute left-5 md:left-10 top-32 md:top-44 flex flex-col">
         <HyperText
           className="text-1xl text-wrap md:text-4xl font-bold text-white z-10 font-avenir bg-gradient-to-r from-gray-400 to-gray-700 inline-block text-transparent bg-clip-text"
-          text="Tales from beyond the stars"
+          text="Tales from beyond the Stars!"
         />
       </div>
       <div className="z-10 h-auto absolute top-5 right-5 md:right-24 md:top-10">

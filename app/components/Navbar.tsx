@@ -6,8 +6,8 @@ import Image from "next/image";
 
 const Navbar: React.FC = () => {
   const [isOpen, setIsOpen] = React.useState(false);
-  const navItemsLeft = ["Home", "Pricing"];
-  const navItemsRight = ["Services", "Contact Us"];
+  const navItemsLeft = ["Home", "Tales"];
+  const navItemsRight = ["Merchandise", "Contact Us"];
   const logoUrl = "/logo.png";
 
   const navVariants = {
